@@ -1,0 +1,15 @@
+{
+  "name": "pmdimc02",
+  "version": "1.0.0",
+  "description": "PMD Calculadora IMC ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Vinícius de Souza Solique",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.4"
+  }
+}
