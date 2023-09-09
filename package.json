@@ -10,6 +10,6 @@
   "author": "Vinícius de Souza Solique",
   "license": "ISC",
   "dependencies": {
-    "serve": "^13.0.4"
+    "serve": "^14.2.1"
   }
 }
